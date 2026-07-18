@@ -1,1 +1,1 @@
-"""Hello this is officialy coding account for begginers"""
+"""Hello"""
