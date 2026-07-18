@@ -1,4 +1,4 @@
 # My_first_repo
 print("hello python")
 
-"""Hello this is officialy coding account for beginner's"""
+"""Hello this is officialy github account for beginner coder's"""
